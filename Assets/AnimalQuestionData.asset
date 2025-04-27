@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd697a0bd0947c4da5aa42b1c33238b, type: 3}
+  m_Name: AnimalQuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionType: 0
+    questionText: 1. Which animal is the fastest on land?
+    replies:
+    - Lion
+    - Cheetah
+    - Horse
+    - Kangaroo
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 2. Which of these is a plant?
+    replies:
+    - a) Coral
+    - b) Moss
+    - c) Fungus
+    - d) Fish
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 3.How do fish breathe?
+    replies:
+    - a) Lungs
+    - b) Gills
+    - c) Skin
+    - d) Fins
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 4. What does the human body mainly consist of?
+    replies:
+    - a) Bones
+    - b) Water
+    - c) Muscles
+    - d) Fat
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 5. What do bees eat?
+    replies:
+    - a) Leaves
+    - b) Meat
+    - "\u0441) Nectar"
+    - d) Fruit
+    correctReplyIndex: 2
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 6. Which organ controls the human body?
+    replies:
+    - a) Liver
+    - b) Lungs
+    - c) Heart
+    - d) Brain
+    correctReplyIndex: 3
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 7. How many legs does a spider have?
+    replies:
+    - a) 4
+    - b) 6
+    - c) 8
+    - d) 10
+    correctReplyIndex: 2
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 8. What is the name of the process of transformation caterpillars
+      into butterflies?
+    replies:
+    - a) Evolution
+    - b) Metamorphosis
+    - c) Photosynthesis
+    - d) Growth
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: "9.\tWhat gas do plants need for photosynthesis?"
+    replies:
+    - a) Oxygen
+    - b) Nitrogen
+    - c) Carbon dioxide
+    - d) Hydrogen
+    correctReplyIndex: 2
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 0
+    questionText: 10. How many hearts does an octopus have?
+    replies:
+    - a) 1
+    - b) 2
+    - c) 3
+    - d) They don't have a heart
+    correctReplyIndex: 2
+    correctTrueFalse: 1
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: 11. All plants are green.
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: '12. Humans have 5 senses. '
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 0
+    correctTrueFalse: 1
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: 13. Dolphins are fish.
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: '14. The heart pumps blood. '
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 0
+    correctTrueFalse: 1
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: '15. Cats can see in the dark. '
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 0
+    correctTrueFalse: 1
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: 16. All mushrooms are edible.
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: '17. A person can live without water for more than a month. '
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: 18. A shark is a mammal.
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: '19. Moles have excellent vision. '
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 1
+    questionText: 20. Penguins can fly.
+    replies:
+    - a) True
+    - b) False
+    correctReplyIndex: 1
+    correctTrueFalse: 0
+    correctWordAnswer: 
+  - questionType: 2
+    questionText: '21. What tree is considered a symbol of peace? '
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: olive tree
+  - questionType: 2
+    questionText: '22. What is the largest animal on the planet? '
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: blue whale
+  - questionType: 2
+    questionText: '23. What color are the leaves of most plants? '
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: green
+  - questionType: 2
+    questionText: '24. What part of the body do elephants use to grab objects? '
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: trunk
+  - questionType: 2
+    questionText: '25. What produces energy in cells? '
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: mitochondria
+  - questionType: 2
+    questionText: 26. What animal lives in a shell?
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: turtle
+  - questionType: 2
+    questionText: 27. What is the name of the science of plants?
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: botany
+  - questionType: 2
+    questionText: '28. What organ allows a person to breathe? '
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: lungs
+  - questionType: 2
+    questionText: 29. What protects the human brain?
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: skull
+  - questionType: 2
+    questionText: 
+    replies: []
+    correctReplyIndex: 0
+    correctTrueFalse: 0
+    correctWordAnswer: 
